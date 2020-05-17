@@ -1,0 +1,2 @@
+# tic
+parte del proyecto .
